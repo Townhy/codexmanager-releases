@@ -2,7 +2,7 @@
 
 Codex Web Manager 是面向移动办公的本地 Web 控制台，用于远程查看和控制本机 Codex 会话，并管理多个账号、API 和 Profile。
 
-此仓库提供 Windows 发布包和版本说明；公开源码仓库位于 [Townhy/codexmanager-source](https://github.com/Townhy/codexmanager-source)，源码不包含账号信息、API Key 或本机会话数据。
+本仓库提供公开 Windows 发布包和版本说明。公开源码位于 [Townhy/codexmanager-source](https://github.com/Townhy/codexmanager-source)，可以查看源码并自行构建；发布仓库不包含账号信息、API Key 或本机会话数据。
 
 ## 下载
 
